@@ -1,2 +1,2 @@
 # loriskumo.github.io
-loriskumo's repo
+This is just an experimentation repo…
